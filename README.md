@@ -22,7 +22,11 @@ SlowlorisVB is a VB.NET-based console app tool designed to test website resilien
    SlowLoris <target> -p <port> [-x <proxy_file>] [-proxytimeout <proxy_timeout_seconds>] [-sleep <sleep_seconds>] [-n <num_sockets>]
  ```
 ## video exemple
-[![Watch the video](screenshot.png)](rece.mp4)
+
+
+
+https://github.com/user-attachments/assets/565b35ef-0acd-47d5-a8b5-b972151b77a5
+
 
 ### Prerequisites
 
