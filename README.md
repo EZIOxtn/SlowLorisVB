@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/565b35ef-0acd-47d5-a8b5-b972151b77a5
 
 - **VB.NET**: The core programming language used to develop the application.
 - **.NET Framework**: Provides the base for running the application on Windows.
-- **Windows Forms**: Used for creating the user interface.
+
 - **TCP Protocol**: Handles the low-level socket connections for the attack.
 
 ## Future Enhancements
