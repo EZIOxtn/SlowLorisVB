@@ -66,4 +66,6 @@ SlowlorisVB is a VB.NET-based console app tool designed to test website resilien
 
 - **Enhanced Proxy Management**: Add support for proxy pools and automatic proxy rotation.
 - **Log Output**: Create detailed logs for each test, showing success, failure, and errors.
+## Disclaimer
+This tool is created strictly for educational and testing purposes only. It should only be used to test the resilience of websites that you have explicit permission to test. Any misuse of this tool to attack websites without authorization is illegal and unethical. The creator is not responsible for any misuse or damage caused by the improper use of this tool.
 
