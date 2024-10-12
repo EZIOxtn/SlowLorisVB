@@ -9,7 +9,19 @@ SlowlorisVB is a VB.NET-based console app tool designed to test website resilien
 - **Speed Control**: Adjust the speed of the attack by controlling the delay between socket connections.
 - **Advanced Configuration**: Full control over the configuration settings to tailor the attack strategy based on testing needs.
 
-## Installation
+## How Does It Work
+
+1. **Start via Command Line**:
+   - Open your command prompt. CMD
+   - Navigate to the directory where the `slowloris.exe` file is located using:
+     ```bash
+     cd slowloris.exe
+     ```
+  2 . **Usage**:
+   ```bash
+   SlowLoris <target> -p <port> [-x <proxy_file>] [-proxytimeout <proxy_timeout_seconds>] [-sleep <sleep_seconds>] [-n <num_sockets>]
+ ```
+
 
 ### Prerequisites
 
